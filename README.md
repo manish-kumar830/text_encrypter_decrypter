@@ -1,7 +1,7 @@
 # Text Encrypter Decrypter
 
 This tool is made using python programming language.
-This is basic password encrypter decrypter
+This is basic password encrypter decrypter.
 
 # Demo
 
