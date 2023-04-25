@@ -3,10 +3,10 @@
 This tool is made using python programming language.
 This is basic password encrypter decrypter
 
-#Demo
+# Demo
 
 Youtube Link : https://youtu.be/2iM8eJDnti4
 
-#ScreenShot
+# ScreenShot
 
-![Alt text](https://github.com/manish-kumar830/text_encrypter_decrypter/blob/main/ss1.jpg "Optional title")
+![ScreenShot](https://github.com/manish-kumar830/text_encrypter_decrypter/blob/main/ss1.jpg)
